@@ -1,0 +1,2 @@
+# SECURITY-OF-WEB-APPLICATION-DATABASE-FROM-SQL-INJECTION-ATTACKS
+Web applications are vulnerable to SQL injection attacks, posing serious threats to database security. These attacks can lead to data leaks, financial fraud, and denial of service. This research discusses a security mechanism to prevent SQLi attacks, recommending a risk analysis approach to estimate the risk associated with web applications.
